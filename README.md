@@ -114,3 +114,6 @@ This new DataFrame should show school performance based on the "School Type".
 Python
 
 Pandas 
+
+Groupby
+
