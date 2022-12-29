@@ -108,3 +108,9 @@ Scores by School Type
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
+
+**Methods used:**
+
+Python
+
+Pandas 
